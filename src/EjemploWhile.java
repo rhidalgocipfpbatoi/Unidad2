@@ -1,5 +1,5 @@
 /**
- *
+ * Práctica 8 de la unidad 2
  */
 
 public class EjemploWhile {
@@ -7,11 +7,11 @@ public class EjemploWhile {
 
     public static void main(String[] args) {
 
-        int contador = LONGITUD_LINEA;
+        int i = LONGITUD_LINEA;
 
-        while (contador >= 0) {
+        while (i >= 0) {
             System.out.print("_");
-            contador--;
+            i--;
         }
 
     }
