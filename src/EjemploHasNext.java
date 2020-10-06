@@ -10,6 +10,7 @@ public class EjemploHasNext {
         System.out.println("Introduce un número ENTERO:");
         if (scanner.hasNextInt()) {
             int numeroEntero = scanner.nextInt();
+            System.out.println("Has introducido el número " + numeroEntero);
         } else {
             System.out.println("No has introducido un ENTERO");
         }
