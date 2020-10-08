@@ -17,7 +17,7 @@ public class EjemploSwitch2 {
         System.out.println("Numero 2:");
         int numero2 = scanner.nextInt();
 
-        System.out.println("Operación (1:sumar, 2:resta, 3:multiplicar, 4:dividir):");
+        System.out.println("Operación (1:sumar, 2:restar, 3:multiplicar, 4:dividir):");
         int operacion = scanner.nextInt();
 
         switch (operacion) {
