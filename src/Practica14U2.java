@@ -1,3 +1,6 @@
+/* Práctica 14 - Unidad 2
+*  Ejemplo con do-while
+*/
 import java.util.Scanner;
 
 public class Practica14U2 {
