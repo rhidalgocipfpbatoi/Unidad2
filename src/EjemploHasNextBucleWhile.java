@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EjemploHasNextBucle {
+public class EjemploHasNextBucleWhile {
     public static void main(String[] args) {
 
         /*
